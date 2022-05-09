@@ -3,7 +3,7 @@
 
 ### Languages and tools. I work with:
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" width="30px"> </code>
-<code> <img src="<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" width="30px"> 
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" width="30px"> 
 <code> <img src="https://sass-scss.ru/assets/img/styleguide/white-e44bed0d.png" width="30px"> </code>
 <code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-black-and-white.png" width="30px"> </code>
 <code> <img src="https://iconape.com/wp-content/png_logo_vector/javascript.png" width="30px"> </code>
