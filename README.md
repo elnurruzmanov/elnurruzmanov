@@ -2,4 +2,4 @@
 </br>
 
 ### Languages and tools. I work with:
-<code> <img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" width="30px"> </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" width="30px"> </code>
