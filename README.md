@@ -1,4 +1,4 @@
-### Hi I'm Elnur Ruzmanov   width="27px"> 
+### Hi I'm Elnur Ruzmanov    
 </br>
 
 ### Languages and tools. I work with:
