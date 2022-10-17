@@ -9,5 +9,5 @@
 <code> <img src="https://iconape.com/wp-content/png_logo_vector/javascript.png" width="30px"> </code>
 <code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"> </code>
 <code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aNIZkANMik0xkUcBotorD1qhUVuKHO1XL6i_O6BUoQe_CxrQ89gVU6vIktzp1BnGXVk&usqp=CAU" width="30px"> </code>
-
+<code> <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="30px"> </code>
 
