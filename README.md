@@ -16,8 +16,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
-        git commit --date="2022-08-02 12:00" -m "Test commit" --allow-empty
-git push
+  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
@@ -26,4 +25,9 @@ git push
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
+        
+              git commit --date="2022-08-02 12:00" -m "Test commit" --allow-empty
+git push
+        
+        ![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
 
