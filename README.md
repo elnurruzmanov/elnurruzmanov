@@ -22,7 +22,7 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 </p> -->
 <code>
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200px"></code>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"></code>
 
 
         
