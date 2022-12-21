@@ -11,16 +11,6 @@
 <code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aNIZkANMik0xkUcBotorD1qhUVuKHO1XL6i_O6BUoQe_CxrQ89gVU6vIktzp1BnGXVk&usqp=CAU" width="30px"> </code>
 <code> <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="30px"> </code>
 
-<!-- <code> <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/react.png" width="100%"> </code>
- -->
-
-<!-- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
-  
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
-</p> -->
 <code>
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"></code>
 
